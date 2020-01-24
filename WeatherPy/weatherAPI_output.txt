@@ -1,1 +1,630 @@
-The temperature information for saint-philippe received is: 77.29The temperature information for marsh harbour received is: 72.61The temperature information for arraial do cabo received is: 76.08The temperature information for cidreira received is: 74.08The temperature information for pitimbu received is: 86The samalaeulu is not foundThe temperature information for bredasdorp received is: 71.02The temperature information for busselton received is: 62.62The temperature information for hami received is: 13.86The temperature information for grand gaube received is: 80.8The temperature information for vilyuysk received is: -44.48The temperature information for rokytne received is: 32.58The temperature information for quatre cocos received is: 80.78The temperature information for ushuaia received is: 55.4The bara is not foundThe temperature information for west lafayette received is: 39.61The temperature information for luziania received is: 74.1The temperature information for moose factory received is: 14The mataura is not foundThe barentsburg is not foundThe juifang is not foundThe temperature information for mugumu received is: 66.31The temperature information for palmer received is: 42.75The temperature information for cowra received is: 64.99The temperature information for melita received is: 18.95The temperature information for rikitea received is: 78.08The temperature information for atikokan received is: 25.45The temperature information for jamestown received is: 74.48The temperature information for port elizabeth received is: 71.6The temperature information for nelson bay received is: 75.9The temperature information for vaini received is: 77The temperature information for cabo san lucas received is: 69.03The temperature information for kyaikkami received is: 80.76The temperature information for qaanaaq received is: -9.54The temperature information for fortuna received is: 52.25The temperature information for severo-kurilsk received is: 14.31The temperature information for geraldton received is: 66.2The temperature information for acarau received is: 88.75The temperature information for naze received is: 66.2The temperature information for kalmunai received is: 80.85The temperature information for kodiak received is: 15.8The temperature information for mubende received is: 69.4The temperature information for sao joao da barra received is: 76.06The temperature information for bati received is: 62.15The temperature information for chuy received is: 82.09The temperature information for hermanus received is: 73The temperature information for yellowknife received is: 5The temperature information for ponta do sol received is: 84.2The temperature information for sept-iles received is: 16.54The grand river south east is not foundThe temperature information for lorengau received is: 83.53The temperature information for cape town received is: 69.96The temperature information for nanortalik received is: 25.95The temperature information for longyearbyen received is: 8.6The temperature information for sitka received is: 34.77The temperature information for rio gallegos received is: 51.8The temperature information for atuona received is: 80.01The temperature information for new norfolk received is: 57.29The temperature information for anchorage received is: -2.07The galiwinku is not foundThe temperature information for mar del plata received is: 91.4The temperature information for hilo received is: 66.11The temperature information for mount gambier received is: 59The temperature information for port-gentil received is: 86The temperature information for butaritari received is: 84.2The temperature information for cacu received is: 79.25The temperature information for narsaq received is: 26.6The temperature information for mount isa received is: 77The airai is not foundThe temperature information for margate received is: 78.85The temperature information for hobart received is: 57.38The temperature information for liverpool received is: 39The temperature information for leningradskiy received is: -23.42The temperature information for albany received is: 60.8The temperature information for olafsvik received is: 31.15The temperature information for salina cruz received is: 78.22The temperature information for chokurdakh received is: -35.1The belushya guba is not foundThe temperature information for tigzirt received is: 61.02The temperature information for castro received is: 68The temperature information for erenhot received is: 12.15The temperature information for salalah received is: 77The temperature information for puerto ayora received is: 82.71The temperature information for hithadhoo received is: 84.45The temperature information for bintulu received is: 77The temperature information for kavaratti received is: 82.04The temperature information for kapaa received is: 64.53The temperature information for walvis bay received is: 72.09The temperature information for tiksi received is: -33.57The temperature information for kahului received is: 65.37The temperature information for avarua received is: 80.6The temperature information for tasiilaq received is: 19.4The temperature information for cherskiy received is: -37.39The temperature information for evensk received is: -9.45The temperature information for port blair received is: 79.84The temperature information for bitung received is: 75.2The temperature information for te anau received is: 57.78The temperature information for dhidhdhoo received is: 82.56The temperature information for george received is: 69.8The temperature information for maniitsoq received is: 11.3The temperature information for ahipara received is: 62.01The temperature information for kruisfontein received is: 71.47The temperature information for urumqi received is: 5The temperature information for alofi received is: 77The temperature information for mikhaylovka received is: 27The temperature information for khatanga received is: -26.88The temperature information for washington received is: 33.66The temperature information for liberia received is: 87.8The sentyabrskiy is not foundThe temperature information for tuktoyaktuk received is: -4The temperature information for sinegorye received is: -30.91The temperature information for cabedelo received is: 86The temperature information for constitucion received is: 54.77The temperature information for panchagarh received is: 57.09The temperature information for benjamin aceval received is: 89.6The karaton is not foundThe temperature information for hasaki received is: 38.05The yanchukan is not foundThe temperature information for huilong received is: 46.35The temperature information for coffs harbour received is: 72.75The temperature information for pacific grove received is: 51.69The temperature information for lieksa received is: 27.75The temperature information for zhanakorgan received is: 28.02The temperature information for ribeira grande received is: 59The temperature information for port macquarie received is: 72.7The temperature information for la ronge received is: 21.2The temperature information for yar-sale received is: 4.46The temperature information for dinar received is: 31.05The temperature information for volovo received is: 33.55The temperature information for bonthe received is: 83.1The temperature information for punta arenas received is: 43.83The temperature information for touros received is: 86The temperature information for port lincoln received is: 60.98The temperature information for aripuana received is: 81.09The temperature information for saskylakh received is: -27.94The temperature information for sailana received is: 58.64The temperature information for moree received is: 77The temperature information for farafangana received is: 78.08The temperature information for severo-yeniseyskiy received is: 21.16The tungkang is not foundThe temperature information for aswan received is: 56.07The temperature information for sichevita received is: 32The temperature information for san patricio received is: 82.4The temperature information for muzhi received is: 5.88The temperature information for tumaco received is: 80.55The temperature information for mahebourg received is: 80.76The temperature information for bluff received is: 59The temperature information for lebu received is: 72.01The attawapiskat is not foundThe phan rang is not foundThe temperature information for bhander received is: 54.27The temperature information for vao received is: 76.73The temperature information for beringovskiy received is: -0.53The temperature information for kavieng received is: 83.28The temperature information for port alfred received is: 66.99The warqla is not foundThe temperature information for nikolskoye received is: 34.77The samusu is not foundThe temperature information for karatau received is: 36.05The sumbawa is not foundThe temperature information for saint-louis received is: 98.6The temperature information for deputatskiy received is: -36.53The temperature information for ancud received is: 68The temperature information for barrow received is: -22The temperature information for mitsamiouli received is: 77The temperature information for zatoka received is: 33.8The temperature information for sanghar received is: 62.6The mys shmidta is not foundThe temperature information for carnarvon received is: 80.6The asayita is not foundThe temperature information for ugoofaaru received is: 82.74The temperature information for davila received is: 77.22The temperature information for roma received is: 75.51The temperature information for sur received is: 69.66The temperature information for provideniya received is: -7.8The temperature information for wyndham received is: 59The temperature information for hay river received is: 6.8The temperature information for awjilah received is: 56.55The temperature information for fairbanks received is: -7.28The temperature information for orange cove received is: 49.59The temperature information for tlaxco received is: 60.8The khani is not foundThe temperature information for iskateley received is: -8.07The temperature information for kiama received is: 71.96The temperature information for maxixe received is: 77.41The temperature information for mpulungu received is: 64.26The temperature information for tuatapere received is: 59The temperature information for sabalgarh received is: 55.63The temperature information for russell received is: 60.67The bandar-e torkaman is not foundThe temperature information for flin flon received is: 14The temperature information for semey received is: 26.6The temperature information for san quintin received is: 62.17The temperature information for georgetown received is: 78.37The temperature information for dunedin received is: 65.57The temperature information for micheweni received is: 82.18The temperature information for clyde river received is: -9.4The temperature information for norman wells received is: -7.6The temperature information for bismarck received is: 18.7The temperature information for saint george received is: 69.62The temperature information for ust-kishert received is: 10.53The temperature information for hambantota received is: 80.26The temperature information for biltine received is: 64.38The temperature information for kidal received is: 80.47The temperature information for zahvizdya received is: 28.4The wulanhaote is not foundThe temperature information for varangaon received is: 70.52The temperature information for zabol received is: 55.4The temperature information for kabo received is: 75.27The temperature information for chara received is: -19.82The temperature information for plettenberg bay received is: 69.08The temperature information for hobyo received is: 80.01The temperature information for roald received is: 35.73The temperature information for aklavik received is: -4.77The temperature information for denpasar received is: 84.2The vaitupu is not foundThe temperature information for saint marys received is: 72.75The nizhneyansk is not foundThe temperature information for vangaindrano received is: 70.32The temperature information for pemberton received is: 35.17The temperature information for zemio received is: 72.77The temperature information for dzhebariki-khaya received is: -42.63The temperature information for harper received is: 82.81The temperature information for celestun received is: 72.39The temperature information for floro received is: 36.07The temperature information for bontang received is: 80.62The temperature information for inongo received is: 77.76The temperature information for kodinsk received is: 25.41The temperature information for ostrovnoy received is: 11.3The temperature information for marawi received is: 58.66The temperature information for port-cartier received is: 16.54The temperature information for chihuahua received is: 56.37The temperature information for kununurra received is: 84.2The temperature information for vilhena received is: 84.2The umzimvubu is not foundThe temperature information for korla received is: 12.63The temperature information for verkhnevilyuysk received is: -40.29The temperature information for upernavik received is: -13.49The temperature information for shamkhal received is: 30.15The temperature information for nanchang received is: 47.77The temperature information for praxedis guerrero received is: 49.23The temperature information for manavalakurichi received is: 82.4The temperature information for pokhara received is: 45.61The temperature information for hamilton received is: 69.6The temperature information for shimoda received is: 45The temperature information for katsuura received is: 46.96The tumannyy is not foundThe temperature information for colesberg received is: 75.29The temperature information for alvaraes received is: 89.6The temperature information for rosario received is: 90.5The temperature information for luderitz received is: 75.2The temperature information for tianpeng received is: 46.4The temperature information for nome received is: -15.43The temperature information for encruzilhada do sul received is: 83.98The temperature information for ozernovskiy received is: 5.97The temperature information for faanui received is: 82.4The temperature information for darnah received is: 60.62The temperature information for oranjemund received is: 68.22The temperature information for san policarpo received is: 78.75The temperature information for siguiri received is: 92.91The amderma is not foundThe temperature information for katobu received is: 75.9The temperature information for dingle received is: 44.6The temperature information for hyeres received is: 52.63The tuggurt is not foundThe temperature information for dikson received is: -3.57The temperature information for bossangoa received is: 75.27The illoqqortoormiut is not foundThe temperature information for pangnirtung received is: -27.4The temperature information for panguna received is: 70.29The temperature information for kaeo received is: 60.75The temperature information for oktyabrskiy received is: 8.24The chagda is not foundThe temperature information for east london received is: 73.4The temperature information for santo amaro da imperatriz received is: 79.79The taolanaro is not foundThe temperature information for port hardy received is: 44.6The temperature information for dolinsk received is: 1.4The temperature information for wukari received is: 82.78The temperature information for akyab received is: 68.86The temperature information for victoria received is: 84.2The temperature information for pokrovsk received is: -41.62The temperature information for viesca received is: 60.22The codrington is not foundThe temperature information for medvedka received is: 14.74The temperature information for vrangel received is: 17.08The temperature information for gorontalo received is: 73.44The temperature information for kayerkan received is: 6.8The temperature information for boyolangu received is: 75.47The temperature information for labuhan received is: 76.84The temperature information for alice town received is: 72.48The temperature information for panzhihua received is: 37.06The temperature information for karasjok received is: 17.6The temperature information for thompson received is: 10.4The temperature information for ukiah received is: 49.62The temperature information for knysna received is: 69.8The temperature information for yarmouth received is: 39.99The temperature information for sakakah received is: 46.4The temperature information for timbiqui received is: 83.86The temperature information for uruacu received is: 70.97The temperature information for bathsheba received is: 84.2The lata is not foundThe temperature information for isangel received is: 76.3The temperature information for baoying received is: 41.07The temperature information for arlit received is: 78.91The temperature information for juneau received is: 33.24The temperature information for ilulissat received is: 19.4The temperature information for namibe received is: 75.51The temperature information for bethel received is: 46.02The temperature information for yeppoon received is: 78.8The temperature information for general pico received is: 99The temperature information for mansa received is: 67.23The temperature information for porto belo received is: 80.11The temperature information for kaitangata received is: 68The temperature information for asfi received is: 57.96The temperature information for synya received is: 0.84The temperature information for igrim received is: 6.73The temperature information for santiago de cao received is: 78.8The temperature information for saldanha received is: 78.8The temperature information for mayumba received is: 83.8The temperature information for richards bay received is: 78.15The avera is not foundThe temperature information for sola received is: 81.3The haibowan is not foundThe temperature information for guinticgan received is: 77.49The temperature information for nikolayevsk-na-amure received is: -6.32The temperature information for nouadhibou received is: 68The temperature information for sayyan received is: 55.83The temperature information for chumikan received is: -10.75The el badari is not foundThe temperature information for guerrero negro received is: 67.35The temperature information for ishigaki received is: 71.83The temperature information for amboasary received is: 77The temperature information for coquimbo received is: 77The temperature information for hamburg received is: 43.9The temperature information for cayenne received is: 86The temperature information for coihaique received is: 63.3The temperature information for deer lake received is: 21.2The temperature information for jijiga received is: 60.28The temperature information for torbay received is: 32.99The temperature information for amapa received is: 91.44The temperature information for lompoc received is: 58.14The temperature information for saint-pierre received is: 35.37The temperature information for morondava received is: 77The temperature information for boulder city received is: 51.39The temperature information for mayo received is: 6.8The temperature information for gloucester received is: 43.79The temperature information for mandera received is: 93.72The doctor pedro p. pena is not foundThe temperature information for san cristobal received is: 82.4The temperature information for havre received is: 35.91The temperature information for mackay received is: 78.62The temperature information for bronnitsy received is: 33.82The temperature information for kondinskoye received is: 2.41The umm ruwabah is not foundThe temperature information for jian received is: 48The temperature information for souillac received is: 80.76The temperature information for cartagena del chaira received is: 92.01The temperature information for biak received is: 81.28The temperature information for andenes received is: 24.85The saint anthony is not foundThe temperature information for katherine received is: 78.8The temperature information for trinidad received is: 86.38The temperature information for gamba received is: 80.22The temperature information for bambous virieux received is: 80.76The temperature information for albury received is: 55.72The temperature information for sorland received is: 32.95The temperature information for cassilandia received is: 79.74The temperature information for zhanaozen received is: 27.16The temperature information for vitim received is: 1.4The temperature information for pell city received is: 51.04The temperature information for ivanivka received is: 32.97The temperature information for khorixas received is: 80.33The temperature information for slavyanka received is: 8.8The temperature information for los llanos de aridane received is: 62.87The temperature information for mayahi received is: 74.26The temperature information for kasongo-lunda received is: 73.63The temperature information for broome received is: 86The temperature information for aasiaat received is: 15.85The temperature information for tura received is: -8.75The kleck is not foundThe temperature information for klaksvik received is: 39.2The temperature information for jaciara received is: 85.44The temperature information for jacareacanga received is: 91.4The temperature information for yulara received is: 80.6The temperature information for salym received is: 5.58The temperature information for saint-francois received is: 84.2The temperature information for safaga received is: 62.6The temperature information for tuburan received is: 82.06The temperature information for broken hill received is: 62.6The temperature information for benjamin constant received is: 75.2The temperature information for san jose de rio tinto received is: 75.13The temperature information for dapaong received is: 85.6The temperature information for carutapera received is: 82.83The temperature information for alekseyevsk received is: 14.23The temperature information for vanino received is: 1.02The temperature information for tiarei received is: 80.33The temperature information for trairi received is: 89.19The temperature information for gouloure received is: 90.52The temperature information for tokur received is: -26.66The temperature information for yining received is: 43.18The temperature information for halifax received is: 35.73The temperature information for tautira received is: 80.35The yanan is not foundThe temperature information for orito received is: 84.2The temperature information for rossland received is: 34.09The temperature information for bam received is: 54.16The temperature information for puerto narino received is: 75.2The saleaula is not foundThe temperature information for banda aceh received is: 73.81The temperature information for comodoro rivadavia received is: 77The temperature information for camacha received is: 61.57The umm durman is not foundThe temperature information for manggar received is: 81.95The temperature information for tigil received is: 2.48The temperature information for urucara received is: 98.4The temperature information for honiara received is: 73.4The temperature information for half moon bay received is: 51.49The lasa is not foundThe kazalinsk is not foundThe temperature information for lethem received is: 97.93The temperature information for camacupa received is: 67.51The temperature information for bilma received is: 66.11The alekseyevka is not foundThe temperature information for smithers received is: 32The temperature information for ayia galini received is: 49.08The temperature information for praia da vitoria received is: 57.2The temperature information for fatwa received is: 53.6The temperature information for pavlodar received is: 30.2The temperature information for iqaluit received is: -22The temperature information for lobva received is: 9The temperature information for monrovia received is: 82.63The temperature information for tsumeb received is: 64.4The tsihombe is not foundThe temperature information for sinnamary received is: 79.47The temperature information for novyy urengoy received is: 6.53The temperature information for tambo received is: 51.73The temperature information for aksu received is: 24.71The temperature information for sokoni received is: 83.39The temperature information for seryshevo received is: -17.63The temperature information for poum received is: 79.25The temperature information for skeldon received is: 79.23The mrirt is not foundThe temperature information for navrongo received is: 86.94The temperature information for alabat received is: 78.42The temperature information for samoylovka received is: 22.95The temperature information for vestmannaeyjar received is: 33.8The temperature information for svetlyy received is: 41The temperature information for saint-leu received is: 77.18The temperature information for brae received is: 42.57The temperature information for lotofaga received is: 80.01The temperature information for amot received is: 23.77The temperature information for belaya gora received is: -36.13The temperature information for myitkyina received is: 51.48The temperature information for yerbogachen received is: 0.01The temperature information for yarmolyntsi received is: 30.99The temperature information for vardo received is: 17.4The senmonorom is not foundThe temperature information for lazaro cardenas received is: 84.76The temperature information for zhigansk received is: -42.92The temperature information for nemuro received is: 21.4The temperature information for butterworth received is: 67.93The cockburn harbour is not foundThe temperature information for baruun-urt received is: -1.44The temperature information for beloha received is: 70.18The temperature information for jurmala received is: 43.57The temperature information for gornopravdinsk received is: 2.89The temperature information for kichmengskiy gorodok received is: 19.67The temperature information for gorele received is: 39.2The temperature information for sal rei received is: 78.03The temperature information for midland received is: 52.39The temperature information for lae received is: 66.47The temperature information for atar received is: 87.58The temperature information for abu dhabi received is: 66.2The temperature information for necochea received is: 81The temperature information for pahrump received is: 49.35The temperature information for bardiyah received is: 57.16The temperature information for san vicente received is: 75.2The temperature information for maningrida received is: 83.8The temperature information for las cruces received is: 49.55The temperature information for inyonga received is: 68.4The temperature information for talnakh received is: 6.8The temperature information for viedma received is: 79.63The temperature information for catemaco received is: 75.49The temperature information for srivardhan received is: 75.16The temperature information for merauke received is: 79.66The temperature information for ciudad bolivar received is: 92.46The temperature information for stromness received is: 42.8The temperature information for laguna received is: 71.65The temperature information for krasnik received is: 33.66The temperature information for tenenkou received is: 87.82The temperature information for vuktyl received is: 0.46The temperature information for itacare received is: 84.2The temperature information for wote received is: 65.75The temperature information for fort nelson received is: 8.6The temperature information for sendai received is: 32The temperature information for inhambane received is: 77.41The temperature information for porto walter received is: 78.3The temperature information for pionerskiy received is: 41The temperature information for dolores received is: 88The temperature information for srednekolymsk received is: -28.75The temperature information for ormara received is: 71.51The temperature information for alta floresta received is: 86The temperature information for krasnouralsk received is: 8.76The temperature information for barentu received is: 61.79The temperature information for gimli received is: 20.61The temperature information for lahaina received is: 65.26The temperature information for moron received is: -0.87The temperature information for namatanai received is: 82.85The taga is not foundThe temperature information for vila velha received is: 78.62The temperature information for luau received is: 68.23The temperature information for jaicos received is: 84.47The temperature information for narva-joesuu received is: 36.59The temperature information for alice springs received is: 77The temperature information for sao gabriel da cachoeira received is: 86The temperature information for vanimo received is: 82.65The temperature information for rabaul received is: 83.23The temperature information for sikonge received is: 67.1The temperature information for anadyr received is: -0.22The temperature information for rafraf received is: 58.98The temperature information for valdosta received is: 65.07The faya is not foundThe temperature information for pisco received is: 71.6The bargal is not foundThe temperature information for esperance received is: 60.8The temperature information for gari received is: 7.47The barawe is not foundThe temperature information for nyurba received is: -32.76The temperature information for rong kwang received is: 68.52The temperature information for weligama received is: 73.72The temperature information for yelizovo received is: 10.4The temperature information for camopi received is: 93.22The temperature information for aitape received is: 81.39The temperature information for havre-saint-pierre received is: 14The temperature information for ust-nera received is: -44.09The temperature information for vitoria de santo antao received is: 86The temperature information for xuddur received is: 85.15The temperature information for malanje received is: 78.8The temperature information for capao da canoa received is: 74.08The temperature information for tamano received is: 44.06The temperature information for diffa received is: 69.03The temperature information for ganzhou received is: 43.21The temperature information for bonavista received is: 30The temperature information for grindavik received is: 32.95The temperature information for muroto received is: 43.54The temperature information for tucuman received is: 87.8The temperature information for morwell received is: 52.5The temperature information for uarini received is: 89.6The temperature information for gambela received is: 84.04The temperature information for fez received is: 60.8The temperature information for ambon received is: 77The temperature information for nicolas bravo received is: 78.8The temperature information for milkovo received is: -2.36The temperature information for palma di montechiaro received is: 51.98The lolua is not foundThe temperature information for haian received is: 45.93The temperature information for kingaroy received is: 75.11The eskasem is not foundThe marzuq is not foundThe temperature information for belmonte received is: 84.15The temperature information for north bend received is: 50.38The kibala is not foundThe temperature information for wiwili received is: 69.8The temperature information for entebbe received is: 77.7The temperature information for mora received is: 86The temperature information for cortez received is: 32.79The bolungarvik is not foundThe temperature information for pombas received is: 84.2The temperature information for niteroi received is: 78.85The temperature information for vung tau received is: 77.04The temperature information for suleja received is: 87.82The temperature information for havoysund received is: 28.36The brahmapuri is not foundThe temperature information for mehamn received is: 24.8The babanusah is not foundThe temperature information for yangjiang received is: 65.75The temperature information for kailua received is: 66.38The temperature information for sao filipe received is: 74.61The temperature information for chadiza received is: 66.42The kamenskoye is not foundThe temperature information for frolovo received is: 27The temperature information for nuevo progreso received is: 69.69The temperature information for stubbekobing received is: 41.32The temperature information for poronaysk received is: 0.34The temperature information for zhezkazgan received is: 26.83The temperature information for paicandu received is: 84.83The temperature information for riyadh received is: 57.2The temperature information for glendive received is: 24.8The temperature information for skibbereen received is: 42.8The temperature information for morro bay received is: 59.59The temperature information for sabha received is: 60.35The temperature information for presidencia roque saenz pena received is: 93.88The temperature information for cockburn town received is: 78.8The temperature information for sambava received is: 73.51The temperature information for lons-le-saunier received is: 37.83The temperature information for paamiut received is: 17.46The temperature information for matara received is: 73.72The temperature information for ambilobe received is: 76.51The temperature information for kenitra received is: 60.66The temperature information for acapulco received is: 84.2The temperature information for bosaso received is: 76.86The temperature information for atlantic city received is: 48.97The temperature information for dauphin received is: 6.8The temperature information for sayat received is: 41The temperature information for drayton valley received is: 31.57The temperature information for strasice received is: 30.72The temperature information for wanning received is: 70.02The temperature information for pringsewu received is: 73.22The temperature information for jackson received is: 43.93The temperature information for muros received is: 53.65The temperature information for chake chake received is: 82.35The temperature information for taoudenni received is: 81.84The temperature information for sandur received is: 39.2The temperature information for bacolod received is: 74.52The temperature information for si sa ket received is: 75.99The temperature information for vila franca do campo received is: 59The temperature information for sembe received is: 76.26The temperature information for rawson received is: 71.22The temperature information for ullapool received is: 44.24The temperature information for bearsden received is: 46.6The temperature information for cartagena received is: 87.8The temperature information for takoradi received is: 82.83The temperature information for muskogee received is: 37.78The kebemer is not foundThe temperature information for yazd received is: 41The temperature information for kushmurun received is: 5.05The temperature information for toyooka received is: 36.09The temperature information for nang rong received is: 74.39The temperature information for tsabong received is: 80.19The tawkar is not foundThe temperature information for matay received is: 50.45The goderich is not foundThe tlahualilo is not foundThe temperature information for buraydah received is: 55.4The temperature information for kurilsk received is: 19.56The temperature information for grand-santi received is: 96.1The temperature information for port augusta received is: 62.85
+busselton with city number:2075265 was found in the Weathermap API
+ushuaia with city number:3833367 was found in the Weathermap API
+nome with city number:5870133 was found in the Weathermap API
+labuhan with city number:8079926 was found in the Weathermap API
+nikolskoye with city number:546105 was found in the Weathermap API
+hermanus with city number:3366880 was found in the Weathermap API
+pisco with city number:3932145 was found in the Weathermap API
+tupik with city number:2014836 was found in the Weathermap API
+sitka with city number:5557293 was found in the Weathermap API
+praia da vitoria with city number:3372760 was found in the Weathermap API
+teneguiban,ph was not found in the Weathermap API
+chokurdakh with city number:2126123 was found in the Weathermap API
+geraldton with city number:2070998 was found in the Weathermap API
+chapais with city number:5919850 was found in the Weathermap API
+mahebourg with city number:934322 was found in the Weathermap API
+lasa,cn was not found in the Weathermap API
+mataura,pf was not found in the Weathermap API
+igdir with city number:311665 was found in the Weathermap API
+ahipara with city number:2194098 was found in the Weathermap API
+kapaa with city number:5848280 was found in the Weathermap API
+sovetsk with city number:490068 was found in the Weathermap API
+hithadhoo with city number:1282256 was found in the Weathermap API
+albany with city number:2077963 was found in the Weathermap API
+talgar with city number:1518518 was found in the Weathermap API
+jamestown with city number:3370903 was found in the Weathermap API
+hilo with city number:5855927 was found in the Weathermap API
+bluff with city number:2206939 was found in the Weathermap API
+saldanha with city number:3361934 was found in the Weathermap API
+yellowknife with city number:6185377 was found in the Weathermap API
+port alfred with city number:964432 was found in the Weathermap API
+mar del plata with city number:3430863 was found in the Weathermap API
+atagay with city number:1511276 was found in the Weathermap API
+kodiak with city number:5866583 was found in the Weathermap API
+taolanaro,mg was not found in the Weathermap API
+saleaula,ws was not found in the Weathermap API
+babstovo with city number:2027277 was found in the Weathermap API
+berlevag with city number:780687 was found in the Weathermap API
+new norfolk with city number:2155415 was found in the Weathermap API
+leningradskiy with city number:2123814 was found in the Weathermap API
+lorengau with city number:2092164 was found in the Weathermap API
+khartoum with city number:379252 was found in the Weathermap API
+bredasdorp with city number:1015776 was found in the Weathermap API
+kamaishi with city number:2112444 was found in the Weathermap API
+port elizabeth with city number:964420 was found in the Weathermap API
+namibe with city number:3347019 was found in the Weathermap API
+okhotsk with city number:2122605 was found in the Weathermap API
+boca do acre with city number:3664956 was found in the Weathermap API
+severomuysk with city number:2016907 was found in the Weathermap API
+kamenka with city number:553766 was found in the Weathermap API
+nizhneyansk,ru was not found in the Weathermap API
+teya with city number:1489656 was found in the Weathermap API
+paamiut with city number:3421193 was found in the Weathermap API
+punta arenas with city number:3874787 was found in the Weathermap API
+rikitea with city number:4030556 was found in the Weathermap API
+vao with city number:2137773 was found in the Weathermap API
+charters towers with city number:2171722 was found in the Weathermap API
+mozarlandia with city number:3456642 was found in the Weathermap API
+hoquiam with city number:5797693 was found in the Weathermap API
+goundam with city number:2456917 was found in the Weathermap API
+airai,pw was not found in the Weathermap API
+butaritari with city number:2110227 was found in the Weathermap API
+mehamn with city number:778707 was found in the Weathermap API
+avarua with city number:4035715 was found in the Weathermap API
+ostashkov with city number:514259 was found in the Weathermap API
+milesion with city number:256985 was found in the Weathermap API
+vernon with city number:4739078 was found in the Weathermap API
+toledo with city number:2510407 was found in the Weathermap API
+yoichi with city number:2129218 was found in the Weathermap API
+coquimbo with city number:3893629 was found in the Weathermap API
+mount gambier with city number:2156643 was found in the Weathermap API
+coahuayana with city number:4013679 was found in the Weathermap API
+ilulissat with city number:3423146 was found in the Weathermap API
+ngukurr,au was not found in the Weathermap API
+bichena with city number:342190 was found in the Weathermap API
+provideniya with city number:4031574 was found in the Weathermap API
+lincoln with city number:3846864 was found in the Weathermap API
+portland with city number:2152667 was found in the Weathermap API
+kaitangata with city number:2208248 was found in the Weathermap API
+comodoro rivadavia with city number:3860443 was found in the Weathermap API
+puerto ayora with city number:3652764 was found in the Weathermap API
+tiksi with city number:2015306 was found in the Weathermap API
+tuatapere with city number:2180815 was found in the Weathermap API
+tongren with city number:1792592 was found in the Weathermap API
+tugdan with city number:1680954 was found in the Weathermap API
+bogovarovo with city number:575480 was found in the Weathermap API
+flinders with city number:6255012 was found in the Weathermap API
+oranjemund with city number:3354071 was found in the Weathermap API
+qaanaaq with city number:3831208 was found in the Weathermap API
+hovd with city number:1516048 was found in the Weathermap API
+east london with city number:1006984 was found in the Weathermap API
+narsaq with city number:3421719 was found in the Weathermap API
+hofn with city number:2630299 was found in the Weathermap API
+norman wells with city number:6089245 was found in the Weathermap API
+alpena with city number:4984075 was found in the Weathermap API
+atka,ru was not found in the Weathermap API
+solnechnyy with city number:2016307 was found in the Weathermap API
+belushya guba,ru was not found in the Weathermap API
+georgetown with city number:2411397 was found in the Weathermap API
+fujin with city number:2037375 was found in the Weathermap API
+necochea with city number:3430443 was found in the Weathermap API
+yerbogachen with city number:2012956 was found in the Weathermap API
+lebu with city number:3883457 was found in the Weathermap API
+chegdomyn with city number:2025579 was found in the Weathermap API
+bengkulu with city number:1649150 was found in the Weathermap API
+cape town with city number:3369157 was found in the Weathermap API
+powell river with city number:6112608 was found in the Weathermap API
+hobart with city number:2163355 was found in the Weathermap API
+saint-pierre with city number:3424934 was found in the Weathermap API
+palmer with city number:4946620 was found in the Weathermap API
+illoqqortoormiut,gl was not found in the Weathermap API
+atuona with city number:4020109 was found in the Weathermap API
+san patricio with city number:3985168 was found in the Weathermap API
+port hardy with city number:6111862 was found in the Weathermap API
+grand-santi with city number:3381538 was found in the Weathermap API
+pochutla with city number:3517970 was found in the Weathermap API
+vostok with city number:2013279 was found in the Weathermap API
+havre-saint-pierre with city number:5972291 was found in the Weathermap API
+mindelo with city number:3374462 was found in the Weathermap API
+khabary with city number:1503856 was found in the Weathermap API
+hailar with city number:2037078 was found in the Weathermap API
+severo-kurilsk with city number:2121385 was found in the Weathermap API
+cayenne with city number:3382160 was found in the Weathermap API
+tekeli with city number:1518296 was found in the Weathermap API
+khasan with city number:2039557 was found in the Weathermap API
+kalmunai with city number:1242110 was found in the Weathermap API
+alofi with city number:4036284 was found in the Weathermap API
+vaini with city number:4032243 was found in the Weathermap API
+thompson with city number:6165406 was found in the Weathermap API
+avera,pf was not found in the Weathermap API
+khatanga with city number:2022572 was found in the Weathermap API
+quthing with city number:932183 was found in the Weathermap API
+guipavas with city number:3014213 was found in the Weathermap API
+ancud with city number:3899695 was found in the Weathermap API
+aykhal with city number:2027296 was found in the Weathermap API
+grimshaw with city number:5967157 was found in the Weathermap API
+lolua,tv was not found in the Weathermap API
+valparaiso with city number:3868626 was found in the Weathermap API
+houma with city number:4328010 was found in the Weathermap API
+davila with city number:1715335 was found in the Weathermap API
+saint-philippe with city number:935215 was found in the Weathermap API
+de aar with city number:1011632 was found in the Weathermap API
+graham with city number:5795906 was found in the Weathermap API
+souillac with city number:933995 was found in the Weathermap API
+buin,pg was not found in the Weathermap API
+ambilobe with city number:1082243 was found in the Weathermap API
+riyadh with city number:108410 was found in the Weathermap API
+bethel with city number:5282297 was found in the Weathermap API
+kloulklubed with city number:7671223 was found in the Weathermap API
+evensk with city number:2125693 was found in the Weathermap API
+klaksvik with city number:2618795 was found in the Weathermap API
+torbay with city number:6167817 was found in the Weathermap API
+williams lake with city number:6182212 was found in the Weathermap API
+cermik with city number:318766 was found in the Weathermap API
+vila velha with city number:3445026 was found in the Weathermap API
+yenagoa with city number:2318123 was found in the Weathermap API
+palabuhanratu,id was not found in the Weathermap API
+kokopo with city number:2093685 was found in the Weathermap API
+cabo san lucas with city number:3985710 was found in the Weathermap API
+aklavik with city number:5882953 was found in the Weathermap API
+westport with city number:2960970 was found in the Weathermap API
+dikson with city number:1507390 was found in the Weathermap API
+kahului with city number:5847411 was found in the Weathermap API
+arraial do cabo with city number:3471451 was found in the Weathermap API
+ceres with city number:3369129 was found in the Weathermap API
+longyearbyen with city number:2729907 was found in the Weathermap API
+ringe with city number:2614790 was found in the Weathermap API
+dingle with city number:2964782 was found in the Weathermap API
+carnarvon with city number:2074865 was found in the Weathermap API
+sorland with city number:3137469 was found in the Weathermap API
+sept-iles with city number:6144312 was found in the Weathermap API
+ostrovnoy with city number:556268 was found in the Weathermap API
+faya,td was not found in the Weathermap API
+kuytun,cn was not found in the Weathermap API
+saint-augustin with city number:6137462 was found in the Weathermap API
+springdale with city number:6154159 was found in the Weathermap API
+yatou with city number:1786855 was found in the Weathermap API
+xadani,mx was not found in the Weathermap API
+belmonte with city number:3470137 was found in the Weathermap API
+batsfjord with city number:780717 was found in the Weathermap API
+mys shmidta,ru was not found in the Weathermap API
+bastia with city number:3034639 was found in the Weathermap API
+nishihara with city number:1855342 was found in the Weathermap API
+predivinsk with city number:1494237 was found in the Weathermap API
+sungai besar with city number:1735199 was found in the Weathermap API
+nossa senhora da gloria with city number:3456240 was found in the Weathermap API
+ishigaki with city number:1861416 was found in the Weathermap API
+poum with city number:2138555 was found in the Weathermap API
+cidreira with city number:3466165 was found in the Weathermap API
+yarega with city number:468991 was found in the Weathermap API
+tuktoyaktuk with city number:6170031 was found in the Weathermap API
+auki with city number:2109701 was found in the Weathermap API
+chippewa falls with city number:5248511 was found in the Weathermap API
+maniitsoq with city number:3421982 was found in the Weathermap API
+kruisfontein with city number:986717 was found in the Weathermap API
+attawapiskat,ca was not found in the Weathermap API
+tari,pg was not found in the Weathermap API
+kavieng with city number:2094342 was found in the Weathermap API
+umm lajj with city number:100926 was found in the Weathermap API
+tsihombe,mg was not found in the Weathermap API
+rungata,ki was not found in the Weathermap API
+shumerlya with city number:493463 was found in the Weathermap API
+pangnirtung with city number:6096551 was found in the Weathermap API
+biggar with city number:5899982 was found in the Weathermap API
+barentsburg,sj was not found in the Weathermap API
+los llanos de aridane with city number:2514651 was found in the Weathermap API
+broken hill with city number:2173911 was found in the Weathermap API
+tateyama with city number:1850523 was found in the Weathermap API
+nouadhibou with city number:2377457 was found in the Weathermap API
+skhisma with city number:253666 was found in the Weathermap API
+lixourion with city number:258175 was found in the Weathermap API
+moron with city number:2029947 was found in the Weathermap API
+maxixe with city number:1039536 was found in the Weathermap API
+okahandja with city number:3354898 was found in the Weathermap API
+shaunavon with city number:6145425 was found in the Weathermap API
+lagoa with city number:3372964 was found in the Weathermap API
+quatre cocos with city number:1106643 was found in the Weathermap API
+le port with city number:935616 was found in the Weathermap API
+hargeysa with city number:57289 was found in the Weathermap API
+mogadishu with city number:53654 was found in the Weathermap API
+cherskiy with city number:2126199 was found in the Weathermap API
+castro with city number:3896218 was found in the Weathermap API
+mount isa with city number:2065594 was found in the Weathermap API
+puerto escondido with city number:3520994 was found in the Weathermap API
+amderma,ru was not found in the Weathermap API
+ust-kamchatsk,ru was not found in the Weathermap API
+poli with city number:2222539 was found in the Weathermap API
+saint george with city number:3573061 was found in the Weathermap API
+havoysund with city number:779622 was found in the Weathermap API
+bur gabo,so was not found in the Weathermap API
+minab with city number:123941 was found in the Weathermap API
+tazovskiy with city number:1489853 was found in the Weathermap API
+flora with city number:1713612 was found in the Weathermap API
+wanaka with city number:2184707 was found in the Weathermap API
+vigrestad with city number:3131824 was found in the Weathermap API
+nanortalik with city number:3421765 was found in the Weathermap API
+chuy with city number:3443061 was found in the Weathermap API
+ginda,er was not found in the Weathermap API
+kerrville with city number:4703078 was found in the Weathermap API
+zhangye with city number:1785036 was found in the Weathermap API
+littlehampton with city number:2644319 was found in the Weathermap API
+panjakent with city number:1220798 was found in the Weathermap API
+saint anthony,ca was not found in the Weathermap API
+hamilton with city number:3573197 was found in the Weathermap API
+mahibadhoo with city number:1337605 was found in the Weathermap API
+jurado with city number:3680090 was found in the Weathermap API
+ribeira grande with city number:3372707 was found in the Weathermap API
+sindor with city number:492860 was found in the Weathermap API
+vaitupu,wf was not found in the Weathermap API
+codrington,ag was not found in the Weathermap API
+goya with city number:3433715 was found in the Weathermap API
+lastoursville with city number:2399870 was found in the Weathermap API
+kyabe with city number:2429344 was found in the Weathermap API
+broome with city number:2075720 was found in the Weathermap API
+inhambane with city number:1045114 was found in the Weathermap API
+mumford with city number:2297810 was found in the Weathermap API
+tasiilaq with city number:3424607 was found in the Weathermap API
+ust-ordynskiy with city number:2013894 was found in the Weathermap API
+kirando with city number:157107 was found in the Weathermap API
+cumaribo,co was not found in the Weathermap API
+katsuura with city number:2112309 was found in the Weathermap API
+olafsvik with city number:3414079 was found in the Weathermap API
+sentyabrskiy,ru was not found in the Weathermap API
+bengbu with city number:1816440 was found in the Weathermap API
+komsomolskiy with city number:545728 was found in the Weathermap API
+idenao with city number:2594800 was found in the Weathermap API
+san cristobal with city number:3651949 was found in the Weathermap API
+yar-sale with city number:1486321 was found in the Weathermap API
+chase with city number:5920381 was found in the Weathermap API
+ratanpur with city number:1258362 was found in the Weathermap API
+verkhneuralsk with city number:475463 was found in the Weathermap API
+heihe with city number:2036973 was found in the Weathermap API
+cap malheureux with city number:934649 was found in the Weathermap API
+xichang with city number:1789647 was found in the Weathermap API
+bismarck with city number:5688025 was found in the Weathermap API
+vryheid with city number:942470 was found in the Weathermap API
+albacete with city number:2522257 was found in the Weathermap API
+uricani with city number:664163 was found in the Weathermap API
+kassala with city number:372753 was found in the Weathermap API
+adrar with city number:2508807 was found in the Weathermap API
+kondopoga with city number:545626 was found in the Weathermap API
+akdepe with city number:601551 was found in the Weathermap API
+puerto cortes,cr was not found in the Weathermap API
+tecuala with city number:3982168 was found in the Weathermap API
+yerakion with city number:251411 was found in the Weathermap API
+bemidji with city number:5017822 was found in the Weathermap API
+lufilufi with city number:4035249 was found in the Weathermap API
+darnah with city number:87205 was found in the Weathermap API
+noumea with city number:2139521 was found in the Weathermap API
+dong xoai with city number:1582436 was found in the Weathermap API
+nokaneng with city number:933211 was found in the Weathermap API
+behbahan with city number:140951 was found in the Weathermap API
+hami with city number:1529484 was found in the Weathermap API
+doha,kw was not found in the Weathermap API
+luderitz with city number:3355672 was found in the Weathermap API
+bonavista with city number:5905393 was found in the Weathermap API
+esperance with city number:2071860 was found in the Weathermap API
+privolzhye with city number:505043 was found in the Weathermap API
+aitape with city number:2101169 was found in the Weathermap API
+asau,tv was not found in the Weathermap API
+toftir,fo was not found in the Weathermap API
+udachnyy with city number:2014624 was found in the Weathermap API
+lake havasu city with city number:5301388 was found in the Weathermap API
+wilmington with city number:4499379 was found in the Weathermap API
+kieta with city number:2094027 was found in the Weathermap API
+troitsko-pechorsk with city number:481548 was found in the Weathermap API
+baleshwar with city number:1277599 was found in the Weathermap API
+kawalu with city number:1640902 was found in the Weathermap API
+forio with city number:3176748 was found in the Weathermap API
+xai-xai with city number:1024552 was found in the Weathermap API
+hidalgotitlan with city number:3527113 was found in the Weathermap API
+barrow with city number:5880054 was found in the Weathermap API
+loiza,us was not found in the Weathermap API
+fort nelson with city number:5955902 was found in the Weathermap API
+paradwip,in was not found in the Weathermap API
+sola with city number:2134814 was found in the Weathermap API
+saskylakh with city number:2017155 was found in the Weathermap API
+sur with city number:286245 was found in the Weathermap API
+haimen with city number:1809062 was found in the Weathermap API
+ixtapa with city number:4004293 was found in the Weathermap API
+the pas with city number:6164499 was found in the Weathermap API
+faanui with city number:4034551 was found in the Weathermap API
+mbuji-mayi with city number:209228 was found in the Weathermap API
+cabra with city number:1721491 was found in the Weathermap API
+fevralsk,ru was not found in the Weathermap API
+henties bay with city number:3356832 was found in the Weathermap API
+hunza,pk was not found in the Weathermap API
+huarmey with city number:3939168 was found in the Weathermap API
+dudinka with city number:1507116 was found in the Weathermap API
+pareora with city number:2181133 was found in the Weathermap API
+rognan with city number:3141548 was found in the Weathermap API
+marsabit with city number:187585 was found in the Weathermap API
+vila franca do campo with city number:3372472 was found in the Weathermap API
+warrington with city number:4177465 was found in the Weathermap API
+tabiauea,ki was not found in the Weathermap API
+labutta,mm was not found in the Weathermap API
+grindavik with city number:3416888 was found in the Weathermap API
+romitan with city number:1217662 was found in the Weathermap API
+tanshui,tw was not found in the Weathermap API
+santa luzia with city number:3450144 was found in the Weathermap API
+bathsheba with city number:3374083 was found in the Weathermap API
+tres arroyos with city number:3833859 was found in the Weathermap API
+kimbe with city number:2093967 was found in the Weathermap API
+vanimo with city number:2084442 was found in the Weathermap API
+bahia blanca with city number:3865086 was found in the Weathermap API
+manoel urbano with city number:3663495 was found in the Weathermap API
+tikhvin with city number:483019 was found in the Weathermap API
+hanna with city number:5970234 was found in the Weathermap API
+shihezi with city number:1529195 was found in the Weathermap API
+severo-yeniseyskiy with city number:1492566 was found in the Weathermap API
+chesterton with city number:4918962 was found in the Weathermap API
+tual with city number:1623197 was found in the Weathermap API
+nizhniy lomov with city number:520574 was found in the Weathermap API
+sisimiut with city number:3419842 was found in the Weathermap API
+grand gaube with city number:934479 was found in the Weathermap API
+meulaboh with city number:1214488 was found in the Weathermap API
+bambous virieux with city number:1106677 was found in the Weathermap API
+manjacaze with city number:1040938 was found in the Weathermap API
+polyarnyy with city number:506763 was found in the Weathermap API
+richards bay with city number:962367 was found in the Weathermap API
+artyk,ru was not found in the Weathermap API
+rolim de moura,br was not found in the Weathermap API
+karratha with city number:6620339 was found in the Weathermap API
+muroto with city number:1856392 was found in the Weathermap API
+bolotnoye with city number:1509819 was found in the Weathermap API
+tadine with city number:2138285 was found in the Weathermap API
+bull savanna with city number:3491161 was found in the Weathermap API
+madera with city number:5369578 was found in the Weathermap API
+mahina with city number:4034307 was found in the Weathermap API
+husavik with city number:2629833 was found in the Weathermap API
+clyde river with city number:5924351 was found in the Weathermap API
+rodrigues alves with city number:3665210 was found in the Weathermap API
+hit with city number:95788 was found in the Weathermap API
+jujuy,ar was not found in the Weathermap API
+moerai with city number:4034188 was found in the Weathermap API
+rio grande with city number:3451138 was found in the Weathermap API
+ukiah with city number:5404476 was found in the Weathermap API
+te anau with city number:2181625 was found in the Weathermap API
+hazorasp with city number:1513957 was found in the Weathermap API
+saint-georges with city number:3380402 was found in the Weathermap API
+nabire with city number:1634614 was found in the Weathermap API
+upernavik with city number:3418910 was found in the Weathermap API
+sarab with city number:126972 was found in the Weathermap API
+sao jose da coroa grande with city number:3388456 was found in the Weathermap API
+north bend with city number:5742974 was found in the Weathermap API
+katherine with city number:2068655 was found in the Weathermap API
+caravelas with city number:3466980 was found in the Weathermap API
+hispania with city number:3680857 was found in the Weathermap API
+scottsburgh,za was not found in the Weathermap API
+sovetskiy with city number:1491230 was found in the Weathermap API
+pevek with city number:2122090 was found in the Weathermap API
+gameleira with city number:3399132 was found in the Weathermap API
+carballo with city number:3126369 was found in the Weathermap API
+dabat with city number:340358 was found in the Weathermap API
+murgab with city number:1218612 was found in the Weathermap API
+himora,et was not found in the Weathermap API
+visby with city number:2662689 was found in the Weathermap API
+port lincoln with city number:2063036 was found in the Weathermap API
+yulara with city number:6355222 was found in the Weathermap API
+balikpapan with city number:1650527 was found in the Weathermap API
+providencia with city number:3991622 was found in the Weathermap API
+azrow,af was not found in the Weathermap API
+puerto leguizamo with city number:3671437 was found in the Weathermap API
+atar with city number:2381334 was found in the Weathermap API
+izumo with city number:1861084 was found in the Weathermap API
+pachino with city number:6539213 was found in the Weathermap API
+taoudenni with city number:2450173 was found in the Weathermap API
+constitucion with city number:4011743 was found in the Weathermap API
+teeli with city number:1489828 was found in the Weathermap API
+guadalupe with city number:3623593 was found in the Weathermap API
+victoria with city number:241131 was found in the Weathermap API
+kousseri with city number:2229798 was found in the Weathermap API
+araouane with city number:2460954 was found in the Weathermap API
+aksay with city number:610613 was found in the Weathermap API
+raudeberg with city number:3146487 was found in the Weathermap API
+jinxiang with city number:1916249 was found in the Weathermap API
+kisangani with city number:212730 was found in the Weathermap API
+maragogi with city number:3395458 was found in the Weathermap API
+amapa with city number:3407762 was found in the Weathermap API
+yinchuan with city number:1786657 was found in the Weathermap API
+pitimbu with city number:3391889 was found in the Weathermap API
+muli with city number:1337617 was found in the Weathermap API
+palmas with city number:3474574 was found in the Weathermap API
+ovsyanka with city number:1495797 was found in the Weathermap API
+zwedru with city number:2272491 was found in the Weathermap API
+krasnoselkup with city number:1502073 was found in the Weathermap API
+ambanja with city number:1083724 was found in the Weathermap API
+grand centre,ca was not found in the Weathermap API
+chumikan with city number:2025256 was found in the Weathermap API
+kirakira with city number:2178753 was found in the Weathermap API
+yirol,sd was not found in the Weathermap API
+marsa matruh with city number:352733 was found in the Weathermap API
+cookeville with city number:4615145 was found in the Weathermap API
+harper with city number:2276492 was found in the Weathermap API
+tucumcari with city number:5495360 was found in the Weathermap API
+morondava with city number:1058381 was found in the Weathermap API
+kutna hora with city number:3072463 was found in the Weathermap API
+baculin with city number:1729469 was found in the Weathermap API
+lompoc with city number:5367788 was found in the Weathermap API
+abu samrah,qa was not found in the Weathermap API
+la ronge with city number:6050066 was found in the Weathermap API
+lipin bor with city number:535113 was found in the Weathermap API
+balkhash with city number:1525798 was found in the Weathermap API
+westpunt,an was not found in the Weathermap API
+ojuelos de jalisco with city number:3994216 was found in the Weathermap API
+shahada with city number:1256750 was found in the Weathermap API
+samalaeulu,ws was not found in the Weathermap API
+cerrito with city number:3439133 was found in the Weathermap API
+grand river south east,mu was not found in the Weathermap API
+mbacke,sn was not found in the Weathermap API
+alugan with city number:1731248 was found in the Weathermap API
+maba with city number:1801615 was found in the Weathermap API
+marcona,pe was not found in the Weathermap API
+constantine with city number:2501152 was found in the Weathermap API
+la romana with city number:3500957 was found in the Weathermap API
+kurilsk with city number:2123979 was found in the Weathermap API
+madimba with city number:878141 was found in the Weathermap API
+honiara with city number:2108502 was found in the Weathermap API
+san buenaventura with city number:3987500 was found in the Weathermap API
+kenitra with city number:2544571 was found in the Weathermap API
+selenginsk with city number:2017059 was found in the Weathermap API
+loukhi with city number:533964 was found in the Weathermap API
+iqaluit with city number:5983720 was found in the Weathermap API
+liverpool with city number:6057856 was found in the Weathermap API
+basco with city number:1726449 was found in the Weathermap API
+walvis bay with city number:3359638 was found in the Weathermap API
+samusu,ws was not found in the Weathermap API
+port hedland with city number:2063042 was found in the Weathermap API
+talnakh with city number:1490256 was found in the Weathermap API
+phangnga with city number:1151464 was found in the Weathermap API
+cabedelo with city number:3404558 was found in the Weathermap API
+umzimvubu,za was not found in the Weathermap API
+katobu with city number:1640972 was found in the Weathermap API
+canandaigua with city number:5111405 was found in the Weathermap API
+opuwo with city number:3354077 was found in the Weathermap API
+dembi dolo with city number:339448 was found in the Weathermap API
+sardulgarh with city number:1257191 was found in the Weathermap API
+sajanan with city number:2467368 was found in the Weathermap API
+mahajanga with city number:1062663 was found in the Weathermap API
+gimli with city number:5961417 was found in the Weathermap API
+palmira with city number:3673164 was found in the Weathermap API
+campbell river with city number:5914132 was found in the Weathermap API
+barra do garcas with city number:3470709 was found in the Weathermap API
+makakilo city with city number:5850554 was found in the Weathermap API
+barentu with city number:342711 was found in the Weathermap API
+matasari with city number:673695 was found in the Weathermap API
+manicore with city number:3663503 was found in the Weathermap API
+andros town with city number:3572906 was found in the Weathermap API
+la orilla with city number:4001056 was found in the Weathermap API
+dalvik with city number:2632287 was found in the Weathermap API
+lowestoft with city number:2643490 was found in the Weathermap API
+skogn with city number:3138701 was found in the Weathermap API
+gamba with city number:2400547 was found in the Weathermap API
+maltahohe with city number:3355624 was found in the Weathermap API
+siavonga with city number:898188 was found in the Weathermap API
+oromocto with city number:6094407 was found in the Weathermap API
+ganzhou with city number:1810637 was found in the Weathermap API
+maloshuyka,ru was not found in the Weathermap API
+kingaroy with city number:2161376 was found in the Weathermap API
+huazolotitlan,mx was not found in the Weathermap API
+kongolo with city number:212360 was found in the Weathermap API
+hay river with city number:5972762 was found in the Weathermap API
+yumen with city number:1528998 was found in the Weathermap API
+bermeo with city number:3128174 was found in the Weathermap API
+tungkang,tw was not found in the Weathermap API
+benguela with city number:3351663 was found in the Weathermap API
+channel-port aux basques with city number:5919815 was found in the Weathermap API
+johor bahru with city number:1732752 was found in the Weathermap API
+nemuro with city number:2128975 was found in the Weathermap API
+haibowan,cn was not found in the Weathermap API
+nsoko with city number:934900 was found in the Weathermap API
+aquiraz with city number:3407407 was found in the Weathermap API
+krasnoyarka with city number:1502041 was found in the Weathermap API
+sibiti with city number:2255285 was found in the Weathermap API
+obukhiv with city number:698782 was found in the Weathermap API
+biltine with city number:244878 was found in the Weathermap API
+gat,ly was not found in the Weathermap API
+iracoubo with city number:3381428 was found in the Weathermap API
+mezen with city number:527321 was found in the Weathermap API
+hegang with city number:2036986 was found in the Weathermap API
+sokolo with city number:2450849 was found in the Weathermap API
+lensk with city number:2020838 was found in the Weathermap API
+esmeraldas with city number:3652065 was found in the Weathermap API
+touros with city number:3386213 was found in the Weathermap API
+korla with city number:1529376 was found in the Weathermap API
+biloela with city number:2175819 was found in the Weathermap API
+kitui with city number:191038 was found in the Weathermap API
+vallenar with city number:3868633 was found in the Weathermap API
+la palma with city number:3707058 was found in the Weathermap API
+isla mujeres with city number:3526756 was found in the Weathermap API
+at-bashi with city number:1528796 was found in the Weathermap API
+xam nua with city number:1652203 was found in the Weathermap API
+vuktyl with city number:470905 was found in the Weathermap API
+ardmore with city number:4529469 was found in the Weathermap API
+nguiu,au was not found in the Weathermap API
+naze with city number:1855540 was found in the Weathermap API
+black river with city number:3491355 was found in the Weathermap API
+burica,pa was not found in the Weathermap API
+lazaro cardenas with city number:4026082 was found in the Weathermap API
+anito with city number:1730622 was found in the Weathermap API
+changde with city number:1791121 was found in the Weathermap API
+kunda with city number:590976 was found in the Weathermap API
+shetpe with city number:608324 was found in the Weathermap API
+fortuna with city number:5563839 was found in the Weathermap API
+nhulunbuy with city number:2064735 was found in the Weathermap API
+maracaibo with city number:3633009 was found in the Weathermap API
+bossembele,cf was not found in the Weathermap API
+sandwick with city number:2638534 was found in the Weathermap API
+hualmay with city number:3939761 was found in the Weathermap API
+riviere-au-renard with city number:6943832 was found in the Weathermap API
+nyagan with city number:1496476 was found in the Weathermap API
+namtsy with city number:2019488 was found in the Weathermap API
+coimbra with city number:2740637 was found in the Weathermap API
+luanda with city number:2240449 was found in the Weathermap API
+dangriga with city number:3582228 was found in the Weathermap API
+beringovskiy with city number:2126710 was found in the Weathermap API
+bonfim with city number:3405215 was found in the Weathermap API
+mantua with city number:3547930 was found in the Weathermap API
+vagur with city number:2610806 was found in the Weathermap API
+meadow lake with city number:6071421 was found in the Weathermap API
+zhengjiatun with city number:2033135 was found in the Weathermap API
+jiazi with city number:1805935 was found in the Weathermap API
+zhigansk with city number:2012530 was found in the Weathermap API
+jomalig,ph was not found in the Weathermap API
+ulladulla with city number:2145554 was found in the Weathermap API
+roebourne with city number:2062276 was found in the Weathermap API
+gumdag with city number:161943 was found in the Weathermap API
+igarka with city number:1505991 was found in the Weathermap API
+sorvag,fo was not found in the Weathermap API
+cockburn town with city number:3572627 was found in the Weathermap API
+padang with city number:1633419 was found in the Weathermap API
+ouango with city number:236844 was found in the Weathermap API
+provost with city number:6113828 was found in the Weathermap API
+sar-e pul with city number:1127106 was found in the Weathermap API
+bubaque with city number:2374583 was found in the Weathermap API
+middle island,kn was not found in the Weathermap API
+lanciano with city number:3175173 was found in the Weathermap API
+puerto madryn with city number:3840092 was found in the Weathermap API
+nantucket with city number:4944903 was found in the Weathermap API
+yashan with city number:1786867 was found in the Weathermap API
+brewster with city number:5110092 was found in the Weathermap API
+san bartolo with city number:3590399 was found in the Weathermap API
+ust-maya with city number:2013918 was found in the Weathermap API
+atasu with city number:1526041 was found in the Weathermap API
+aasiaat with city number:3424901 was found in the Weathermap API
+boa vista with city number:3664980 was found in the Weathermap API
+kirkwall with city number:2645198 was found in the Weathermap API
+belgrade with city number:5639364 was found in the Weathermap API
+tarudant,ma was not found in the Weathermap API
+kurush with city number:538505 was found in the Weathermap API
+kuche,cn was not found in the Weathermap API
+thilogne,sn was not found in the Weathermap API
+erenhot with city number:2037485 was found in the Weathermap API
+magdagachi with city number:2020591 was found in the Weathermap API
+camacha with city number:2270385 was found in the Weathermap API
+leh with city number:1264976 was found in the Weathermap API
+kaeo with city number:2189343 was found in the Weathermap API
+natal with city number:3394023 was found in the Weathermap API
+solaro with city number:3166449 was found in the Weathermap API
+iquique with city number:3887127 was found in the Weathermap API
+mamallapuram with city number:1263997 was found in the Weathermap API
+limon with city number:3622247 was found in the Weathermap API
+kupang with city number:2057087 was found in the Weathermap API
+parabel with city number:1495586 was found in the Weathermap API
+isangel with city number:2136825 was found in the Weathermap API
+vardo with city number:777019 was found in the Weathermap API
+leeds with city number:4072130 was found in the Weathermap API
+crowley with city number:4321310 was found in the Weathermap API
+carutapera with city number:3402648 was found in the Weathermap API
+kununurra with city number:2068110 was found in the Weathermap API
+laguna with city number:3459094 was found in the Weathermap API
+celestun with city number:3531368 was found in the Weathermap API
+teguldet with city number:1489822 was found in the Weathermap API
+tura with city number:2014833 was found in the Weathermap API
+kazalinsk,kz was not found in the Weathermap API
+rocha with city number:3440777 was found in the Weathermap API
+san carlos de bariloche with city number:7647007 was found in the Weathermap API
+ndjole with city number:2397674 was found in the Weathermap API
+gwadar with city number:1177446 was found in the Weathermap API
+kardla with city number:591632 was found in the Weathermap API
+okha with city number:2122614 was found in the Weathermap API
+vestmannaeyjar with city number:3412093 was found in the Weathermap API
+rochegda with city number:501847 was found in the Weathermap API
+athens with city number:4180386 was found in the Weathermap API
+ponta do sol with city number:3374346 was found in the Weathermap API
+honningsvag with city number:779554 was found in the Weathermap API
+tambo with city number:3927995 was found in the Weathermap API
+benbrook with city number:4673482 was found in the Weathermap API
+coruripe with city number:3465329 was found in the Weathermap API
+buritizeiro with city number:3468720 was found in the Weathermap API
+tamalin with city number:3516410 was found in the Weathermap API
