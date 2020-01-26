@@ -39,3 +39,29 @@ Some observable trends based on this data:
 * Wind Speed is not correlated to latitude in the Northern Hemisphere
 * In the Southern Hemisphere, Wind Speed is weakly correlated to increase as you move south in latitude
 
+# VacationPy
+----
+This Jupyter notebook will work with weather data to plan future vacations. We will use jupyter-gmaps and the Google Places API to find cities from the WeatherPy notebook results that have the ideal weather for a vacation spot. Then we will plot out markers on a map of the world and find a hotel we can stay at in those cities. 
+
+
+* Create a heat map that displays the humidity for every city from the part I of the homework.
+
+  ![heatmap](Images/heatmap.png)
+
+* Narrow down the DataFrame to find your ideal weather condition. For example:
+
+  * A max temperature lower than 80 degrees but higher than 70.
+
+  * Wind speed less than 10 mph.
+
+  * Zero cloudiness.
+
+  * Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
+
+  * **Note:** Feel free to adjust to your specifications but be sure to limit the number of rows returned by your API requests to a reasonable number.
+
+* Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+
+* Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
+
+  ![hotel map](Images/hotel_map.png)
