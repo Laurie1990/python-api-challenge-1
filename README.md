@@ -16,7 +16,7 @@ This final notebook will contain:
 
 # Analysis and observations
 
-Of the four weather measures examined versus changes in latitude the strongest correlation was found between Northern Hemisphere changes in latitude versus temperature. This relationship had a high r-squared value of 0.87 meaning that 87% of the variance in this data could be explained by the equation of the line from linear regression. ![WeatherMeasures](Images/NorthHemiLatVsTemp.png)
+Of the four weather measures examined versus changes in latitude the strongest correlation was found between Northern Hemisphere changes in latitude versus temperature. This relationship had a high r-squared value of 0.87 meaning that 87% of the variance in this data could be explained by the equation of the line from linear regression. ![WeatherMeasures](Figures/NorthHemiLatVsTemp.png)
 
 Of the relationships examined there were some weak correlations with r-squared values of around 0.4 and others below that - which indicated that there wasn't a correlation:
 * Northern Hemisphere - Temperature (F) vs. Latitude     r-squared -0.87
@@ -27,4 +27,15 @@ Of the relationships examined there were some weak correlations with r-squared v
 * Southern Hemisphere - Cloudiness (%) vs. Latitude      r-squared  0.39
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude    r-squared  0.07
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude    r-squared -0.41
+
+Some observable trends based on this data:
+
+* Temperature decreases as you move north from the equator in the Northern Hemisphere in strongly linear fashion
+* Temperature decreases as you move south from the equator in the Southern Hemisphere in a weak linear fashion
+* In the Northern Hemisphere Humidity is very weakly correlated to increase as you increase in latitude
+* In the Southern Hemisphere Humidity is weakly correlated to decrease as you move south in latitude
+* Cloudiness is not correlated to latitude in the Northern Hemisphere
+* Cloudiness is weakly correlated to decrease as you move south in latitude in the Southern Hemisphere
+* Wind Speed is not correlated to latitude in the Northern Hemisphere
+* In the Southern Hemisphere, Wind Speed is weakly correlated to increase as you move south in latitude
 
