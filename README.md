@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WeatherPy
 ----
 This notebook will be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, we'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.![WeatherMeasures](Images/OpenweatherAPI.png)
@@ -27,4 +28,6 @@ Of the relationships examined there were some weak correlations with r-squared v
 * Southern Hemisphere - Cloudiness (%) vs. Latitude      r-squared  0.39
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude    r-squared  0.07
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude    r-squared -0.41
+=======
+>>>>>>> 0c60c33196ec9c507ad37bc8bfb88330705e25fa
 
